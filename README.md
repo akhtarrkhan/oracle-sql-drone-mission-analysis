@@ -103,6 +103,38 @@ I added this project to my portfolio to demonstrate practical SQL skills beyond 
 
 - Oracle SQL
 
+## Sample Query Outputs
+
+### ERD: Drone Mission Tracker
+![ERD](screenshots/00_erd_drone_mission_tracker.png)
+
+### Rank the earliest missions under each mission type
+![Earliest missions by type](screenshots/01_rank_earliest_missions_by_type.png)
+
+### Show the top 10 most expensive missions
+![Top 10 costliest missions](screenshots/02_top_10_costliest_missions.png)
+
+### Divide data collected into 5 quantiles by mission type
+![Data quantiles by mission type](screenshots/03_data_quantiles_by_mission_type.png)
+
+### Show cumulative mission cost for 2023
+![Running cost 2023](screenshots/04_running_cost_2023.png)
+
+### Show the cost difference compared to the previous mission
+![Cost difference vs previous mission](screenshots/05_cost_difference_vs_previous_mission.png)
+
+### Show percentage contribution to total data collected
+![Data contribution percentage](screenshots/06_data_contribution_percentage.png)
+
+### Show rolling average duration for missions in 2022
+![Rolling average duration](screenshots/07_rolling_average_duration_2022.png)
+
+### Analyse how efficiently each mission uses the drone's range
+![Range utilisation vs drone capacity](screenshots/08_range_utilisation_vs_drone_capacity.png)
+
+### Rank drones by total data collected from 2024 onwards
+![Drone rank by total data](screenshots/09_drone_rank_by_total_data_2024_onwards.png)
+
 ## Note
 
 This project was originally completed as part of a class assignment and has been organised here in a cleaner format for portfolio purposes.
